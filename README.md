@@ -2,7 +2,7 @@
 7 November - 13 December 2020
 
 ### Team:
-1. Vladimir Homyakov (team leader)
+1. Vladimir Khomyakov (team leader)
 2. Nikita Parfenov
 3. Amir Ayupov
 4. Anton Khanaev
